@@ -9,7 +9,7 @@ public class Ch3Ex1 {
 		
 		System.out.println(num1 + " + "+num2+" = " +result);
 		System.out.printf("%d + %d = %d",num1,num2,result);
-		  //asdasd
+		  //asdasd  
 	}
 
 }
